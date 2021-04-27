@@ -5,4 +5,4 @@
 
 ### Project Overview
 
-![Project Overview](/images/overview.png)
+![Project Overview](/images/overview.PNG)
