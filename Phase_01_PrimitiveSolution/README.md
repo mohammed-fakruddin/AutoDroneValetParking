@@ -1,11 +1,7 @@
 # AutoDroneValetParking
 ## DGMD E-17 (26008) - Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence
 
-#### Team Members
 
-* Ayush Bhasin
-* Fakruddin Mohammed
-* Mohammed Rahman
 
 ### Phase 1 - Primitive Parking Solution
 
