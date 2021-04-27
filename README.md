@@ -45,6 +45,7 @@ https://drive.google.com/file/d/1t1aS51OR4CDeDXFmVReShamhZEW4xQaH/view?usp=shari
 
 ### Project Video
 
+https://drive.google.com/file/d/1t1aS51OR4CDeDXFmVReShamhZEW4xQaH/view?usp=sharing
 
 ### Issues & Challenges
 * Parking Bays image segmentation using Open CV is sensitive to lighting conditions
