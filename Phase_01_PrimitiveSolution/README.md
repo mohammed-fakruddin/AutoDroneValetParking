@@ -16,7 +16,7 @@
 
 ### Phase 1 Overview
 
-![Project Overview](/Pase1_Overview.PNG)
+![Project Overview](/Phase1_Overview.PNG)
 
 ### Code
 
