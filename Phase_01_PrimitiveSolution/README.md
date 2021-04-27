@@ -22,6 +22,6 @@
 
 * Step01_PrimitiveSolutionSimple - jupyter notebook has all the necessary code to run the phase-1 of the project
 
-** It loads standard python, open-cv libraries
-** It loads the aruco dictionary
-** It reads the given image file of parking bays and counts the number of free parking spaces (i.e. visible aruco markers)
+  * It loads standard python, open-cv libraries
+  * It loads the aruco dictionary
+  * It reads the given image file of parking bays and counts the number of free parking spaces (i.e. visible aruco markers)
