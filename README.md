@@ -60,12 +60,12 @@ https://drive.google.com/file/d/1zDV8ZjRgaNVB6SExCJ-nEo2WcF_kyiZo/view?usp=shari
 #### Obstruction avoidance images dataset
 https://drive.google.com/file/d/1EuXFDl4uz8ikPuVodC7wDUzpjErE9mmJ/view?usp=sharing
 
-### Hardware Requirements
+## Hardware Requirements
 1. DJI Tello
 2. Raspberry PI
 3. PI Camera or Webcam
 
-# Software Requirements and Installation Instruction
+## Software Requirements and Installation Instruction
 The following python libraries are used to implement the project. These libraries can be installed using the "pip install" command.
 * Open CV (Version 4.2)
 * Tensorflow (V2.1)
