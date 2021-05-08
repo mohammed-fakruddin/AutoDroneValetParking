@@ -37,11 +37,10 @@
 
 ### Project Phases
 
-* Phase 1 - 
-* Phase 2 - 
-* Phase 3 - 
-* Phase 4 - 
-* Phase 5 - 
+* Phase 1 - Primitive Solution using Open CV and Aruco Markers
+* Phase 2 & 3 - Open CV Image Segmentation of Car Parking Bays and CNN Classification Model for Car Parking Status
+* Phase 4 - Drone Obstruction Avoidance Model
+* Phase 5 - Autonomous Path Navigation using Djikstra Algorithm
 
 ### Project Presentation Slides
 
@@ -51,6 +50,16 @@ https://drive.google.com/file/d/1t1aS51OR4CDeDXFmVReShamhZEW4xQaH/view?usp=shari
 ### Project Video
 
 https://drive.google.com/file/d/1aVUqnjvBrmsQksUnqUX703CRoJIdiEHA/view?usp=sharing
+
+
+### Datasets
+
+#### Car Parking Bays Image Segmentation Dataset
+https://drive.google.com/file/d/1zDV8ZjRgaNVB6SExCJ-nEo2WcF_kyiZo/view?usp=sharing
+
+#### Obstruction avoidance images dataset
+https://drive.google.com/file/d/1EuXFDl4uz8ikPuVodC7wDUzpjErE9mmJ/view?usp=sharing
+
 
 ### Issues & Challenges
 * Parking Bays image segmentation using Open CV is sensitive to lighting conditions
