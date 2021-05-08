@@ -16,8 +16,5 @@
 
 ### Code
 
-* Step02_PrimitiveSolutionSimple - jupyter notebook has all the necessary code to run the phase-1 of the project
-
-  * It loads standard python, open-cv libraries
-  * It loads the aruco dictionary
-  * It reads the given image file of parking bays and counts the number of free parking spaces (i.e. visible aruco markers)
+1. **Step02_ClassificationMode:** This jupyter notebook model trains the CNN classification model to detect whether a parking bay is occupied or free.
+2. **Step03_ParkingStatusPrediction:** This jupyter notebook is to test the CNN classification model.
